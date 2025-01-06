@@ -20,7 +20,7 @@ const Navbar = () => {
             className="flex flex-col items-center gap-1"
           >
             <p>COLLECTION</p>
-            <hr className="w-2/4  h-[2.5px] bg-gray-700 hidden" />
+            <hr className="w-2/4 border-none h-[2.5px] bg-gray-700 hidden" />
           </NavLink>
         </li>
         <li>
