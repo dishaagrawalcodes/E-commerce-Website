@@ -3,6 +3,7 @@ import Hero from '../Components/Hero'
 import LatestCollection from '../Components/LatestCollection'
 import BestSeller from '../Components/BestSeller'
 import Ourpolicy from '../Components/Ourpolicy'
+import NewsletterBox from '../Components/NewsletterBox'
 const Home = () => {
   return (
     <div>
@@ -10,6 +11,7 @@ const Home = () => {
       <LatestCollection/>
       <BestSeller/>
       <Ourpolicy/>
+      <NewsletterBox/>
     </div>
   )
 }
